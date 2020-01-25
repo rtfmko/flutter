@@ -1,0 +1,1 @@
+enum GenderList {male, female}
